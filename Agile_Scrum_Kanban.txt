@@ -1,0 +1,116 @@
+Gestão Ágil com Scrum e Kanban
+
+Manifesto Ágil de 2001 - Valores:
+- Indivíduos e interações mais que processos e ferramentas;
+- Software em funcionamento mais que documentação abrangente;
+- Colaboração com o cliente mais que negociação de contratos;
+- Resposta às mudanças mais que seguir rigidamente um plano.
+
+Agile Coach:
+- Pessoa que ajuda a formar e desenvolver equipes de alta performance;
+- Ajuda os times a desenvolverem os trabalhos, utilizando métodos Ágeis;
+- Facilitador de equipes, que ajuda a liderar a transformação Ágil dentro das empresas;
+- Estar perto das equipes e visualizar as estratégias dentro das empresas;
+- Atingir alta performance das equipes das empresas.
+
+Scrum: 
+- Framework para desenvolvimento de software, baseado em métodos ágeis;
+- Cerimônias: Retrospectivas, Reuniões Diárias, Sprint Planning, Review;
+- Papéis: Product Owner, Scrum Master e Dev Team;
+- Forma concisa de aplicar métodos ágeis com as equipes;
+- Agilidade na entrega de valor aos clientes;
+- MVP - Produto Mínimo Viável.
+
+Cerimônias Scrum:
+- Retrospectiva: Feita depois de sprints ou entregas de projetos ou outras, definida pelo time. Entender os pontos fortes e fracos da equipe - fazer em forma de perguntas (o que pode melhorar, o que pode mudar, etc.);
+- Reunião Diária (standups): Acompanhamento de perto do time e correções necessárias;
+- Sprint Planning: Planejamento das sprints, afim de gerar entregas de valor ao cliente com maior agilidade;
+- Review: Verificar toda a sprint e ponderar os pontos fortes e os pontos a desenvolver melhor do time.
+
+Kanban - Método:
+- Baseado no sistema Toyota de proodução, adaptado para o desenvolvimento de softwares ágeis;
+- Pensamento Lean;
+- Gestão visual do Trabalho do Conhecimento;
+- Externaliza as atividades da equipe, afim de manter todo time ao par da situação;
+- Sistema "puxado" de demandas;
+- Menos prescritivo que o Scrum;
+- Fluxo contínuo;
+- Entregas mais frequentes.
+
+Ferramentas Kanban: Trello, JIRA, 
+
+Management 3.0: Ferramenta que contém um conjunto de práticas para desenvolvimento das competências das pessoas, com 6 pontos fundamentais:
+- Alinhar restrições - focar o time completo em um único objetivo;
+- Empoderar times - manter o time motivado para sua auto-organização;
+- Energizar as pessoas;
+- Desenvolver competências - time auto-organizado e autosuficiente;
+- Crescer estruturas - crescimento sustentável;
+- Melhoria contínua - Kaizen - trabalhar os pontos positivos e os pontos a melhorar das equipes.
+
+Kudo Cards - cartões que estimulam a gratidão dentro das empresas.
+- Importante para estimular a equipe;
+- Fazer a customização;
+- Colocar "brindes".
+
+Roda Ágil - Baseada no Modern Agile - rodaagil.com.br:
+- Pessoas sensacionais;
+- Entrega contínua de valor;
+- Fazer da segurança um pré-requisito;
+- Experimentar e aprender rápido.
+- Entende os pontos de melhoria para a equipe em uma cerimônia de Retrospectiva, por exemplo;
+- Reaplicação da Roda Ágil para melhoria contínua.
+
+A Roda Ágil possui 4 quadrantes:
+
+1° Quadrante: 
+- Colaboração e comunicação
+- Motivação e confiança;
+- Autonomia da equipe e auto-organização;
+- Kaizen - melhoria contínua;
+- Interdisciplinalidade - o quanto a equipe consegue se ajudar em outras habilidades dentro da equipe.
+
+2° Quadrante:
+- Linhagem
+- Métricas e ferramentas;
+- Comprometimento com o produto;
+- Compartilhamento de conhecimentos;
+- Ritmo das entregas - ritmo consistente.
+
+3° Quadrante - parte de engenharia:
+- Automações;
+- Pipeline;
+- Qualidade ponta-a-ponta (E2E);
+- Praticas DevOps;
+- Práticas DDD(?).
+
+4° Quadrante - valor a todo instante:
+- Quebra das Stories, Features, Épicos, etc.;
+- UX;
+- Entrega de valor;
+- Relacionamento com o negócio;
+- Satisfação do cliente.
+
+Na Roda Ágil, faz-se uma pontuação de 1 a 5 para cada quesito, sendo 1 e 2 em vermelho, o 3 em amarelo e o 4 e 5 em verde, para melhor visualização.
+Fazer votações para entrar em consenso nesses pontos dados a cada quesito. O próprio time deve eleger o ponto a ser melhorado dentro do prazo definido de 3 a 6 meses. Deve ser, ao máximo, dois quesitos de melhoria e trabalhar nesses pontos principais.
+Para apresentação da Roda Ágil às intâncias superiores a você (Líderes, Gerentes, etc.), deve-se ter muita maturidade. O melhor é apresentar o antes e o depois (o que foi pretendido a se melhorar e quais foram os resultados 3 meses depois). Preferencialmente, não apresentar a roda ágil aos superiores antes dos 3 meses definidos para as melhorias.
+
+Facilitações Ágeis:
+- Bom comunicador;
+- Empatia;
+- Mehoria contínua.
+
+Retrospectivas - Técnicas:
+- Estimulante;
+- Team Building;
+- Check-in e Check-out;
+- Pontos positivos e negativos;
+- Diversas outras dinâmicas, que podem mudar de equipe a equipe;
+- Como o time vizualiza o que os outros falariam da equipe, num futuro;
+- Site funretrospectives.com
+
+
+Sites úteis:
+- rodaagil.com.br;
+- funretrospectives.com;
+- https://www.sympla.com.br/produtor/uniagil - Treinamentos Kanban Oficiais;
+- https://www.uniagil.com.br.
