@@ -13,6 +13,24 @@ Agile Coach:
 - Estar perto das equipes e visualizar as estratégias dentro das empresas;
 - Atingir alta performance das equipes das empresas.
 
+Mentalidade Ágil:
+- Lidar com incertezas;
+- Lidar com mudanças;
+- Lidar com falhas;
+- Foco em pessoas;
+- Foco no aprendizado;
+- Foco em colaboração;
+- Foco em valor.
+
+Destravando a mentalidade Ágil:
+- Dividir as entregas em partes menores e gerenciáveis;
+- Tentar aprender sempre;
+- Abraçar as falhas;
+- Conduzir estudos de provas de falhas;
+- Registrar tudo: aprendizados, pensamentos, insights;
+- Reflexão contínua sobre a jornada;
+- Aprimoramento contínuo.
+
 Scrum: 
 - Framework para desenvolvimento de software, baseado em métodos ágeis;
 - Cerimônias: Retrospectivas, Reuniões Diárias, Sprint Planning, Review;
